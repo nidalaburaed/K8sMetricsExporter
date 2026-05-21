@@ -18,7 +18,7 @@ const string target_file = "oam_kpi.tgz"; // Havaitun tiedosto nimi
 const string local_download_path = "/tmp/";  // Haetun tiedoston tallennus paikka paikallisella työasemalla
 
 // KPI Reporter API-konfiguraatio
-const string KPI_REPORTER_API_URL = "http://kpireporter.nokia.com/api/upload";
+const string KPI_REPORTER_API_URL = "http://kpireporter.com/api/upload";
 const string API_KEY = "your-api-key"; // Korvaa varsinaisella API-avaimella
 
 // Funktio .tgz tiedosto importtaamiseen KPI Reporteriin
